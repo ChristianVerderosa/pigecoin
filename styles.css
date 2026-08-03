@@ -403,6 +403,8 @@ h1, h2, h3 { font-family: var(--font-display); }
 .stat-value { font-family: var(--font-display); font-weight: 700; font-size: 1.3rem; color: var(--brown); }
 .stat-label { font-size: 0.85rem; color: var(--brown-light); margin-top: 0.3rem; }
 
+.stat-card-link { display: block; cursor: pointer; }
+
 /* ---------- Steps ---------- */
 .steps-grid {
   display: grid;
